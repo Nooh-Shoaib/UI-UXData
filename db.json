@@ -4,75 +4,77 @@
 "slug": "uiux-design",
 "id": "uiux-design",
 "breadcrumbs": {
-"pageTitle": "Custom Web Development Services",
- "category": "Custom Web Development",
-"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/kj4fcbvn3pija25jb5zi.jpg"
+"pageTitle": "Top-Rated UI and UX Design Services",
+ "category": "UI and UX Design",
+"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/eieclwkinaxntnpnjgdc.jpg"
 },
 "description": [
 {
-"heading": "One Stop Personalized Web Development Solutions",
-"text": "Your company’s website is the digital face of your business, we make sure that it is representable and perfect. The Custom Websites is a company that provides solutions to your digital problems and needs. From developing customized web design for your website to the development of an e-commerce website, we provide all the services in between. We have a team of expert developers who listen to your ideas and develop a personalized website for you. We develop websites with visually appealing and responsive designs. Moreover, our experts will optimize your website for the Google search engine so that your customers can easily find you and boost your company’s growth. We care about the time and budget of our customers so we provide exceptionally affordable <Link to='/uiux-design' className='text-blue-500 hover:text-blue-600'> custom web design services</Link>. We work on platforms such as Joomla, Drupal, WordPress, Shopify, Wix, and more. contact us today to hire the best developer for your company."
-}
+"heading": "Top-Rated UI and UX Design Services",
+"text": [
+ "At “The Custom Websites,” we provide UI and UX designs that meet the ultimate goals of our client’s company and bring them their desired outcomes. People, when visiting a website they are only behind one thing: information. They want that information as quickly and efficiently as possible, and we care about your visitors. Therefore, we provide UI design and development services and user experience design services (UX) so that your customers can interact with you on the go.",
+"Our UI UX design agency aspires to provide custom websites or mobile design that creates a professional look for your business. Our experts analyze and research your business to provide highly engaging designs that correlate with your business requirements and help grow your business. Our captivating UI designs will quickly grab your audience’s attention, and visually appealing designs will keep them engaged, thus enhancing the user experience."
+]}
 ],
 "tech": [
 {
-"techHeading": "We Create Custom Websites With The Latest Technologies",
-"techText": "‘The Custom Websites’ provides services using the latest web development technologies, which include Java, PHP, Nodejs, HTML 5, Angularjs, .net, WordPress, and more. We have experts for each platform who are armed with outstanding skills to meet your business requirements and help you grow your digitized business through customized",
+"techHeading": "We Create Latest UI & UX Design With Emerging Technologies",
+"techText": "‘Being a top-rated web design agency, we are highly conscious of selecting the design tools and software to provide our clients a perfect UI design and UX design. Some of the latest tools and software we use include Adobe XD, Figma, Framer X, Origami studio, Flinto, InVision, Zeplin, and Marvel.",
 "cards": [
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/zeamaxh9rowpcomtmeko.png",
-"heading": "WordPress",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/wawbue9gqpdo0mf08lad.png",
+"heading": "Adobe XD",
 "text": "WordPress is the most commonly used open-source and free platform. It is used by developers to create search engine optimized blogs, websites, and applications. It has over 55,000 plugins to help you customize your website."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/tdqk7l3tbtuasyotvhme.png",
-"heading": "Php",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/lju1ug75p4tmlmeo5s8i.png",
+"heading": "Figma",
 "text": "PHP is one of the most famous scripting languages used by developers for general purposes. It was initially designed by Danish-Canadian. PHP is used to develop highly potent and slick websites, mobile applications, and software."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/v2uqvzfc3zhcyb6ht6ui.png",
-"heading": "Node.js",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ej1grq8rttp8zswi1ctc.png",
+"heading": "Framer X",
 "text": "Node JS is a free, open-source environment that uses JavaScript on the back-end to develop fast and expansive applications. It runs on various platforms such as Unix, Linux, Windows, Mac OS, etc."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/React-Developer_TheCustomWebsites.png",
-"heading": "React.js",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/yyjn4lf6o2dpaxc10h5d.png",
+"heading": "Origami Studio",
 "text": "React JS is an open-source, JavaScript-based, most popular front-end library that is used to develop web applications and user interfaces. It is maintained by a group of developers and Facebook."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/rmxjjc64fnyvhnedyd3n-1.png",
-"heading": "Drupal",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ysaext9ewhgtdkperbsh.png",
+"heading": "Flinto",
 "text": "Drupal is an open-source framework that can be used, copied, or changed by anyone according to their requirements. Drupal provides server-end support to hundreds of websites, including informational, political, and governmental websites."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/hnbqdph0iv7u8ldtvbsx.png",
-"heading": "Java",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/vzz0vnkjbbnt2w874un2.png",
+"heading": "InVision",
 "text": "Java is the #1 high-level programing language that is used extensively by developers for the development of web applications, mobile applications, and much more. Software made through Java runs smoothly and is user-friendly."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/x5ttal7svctzo9xayt3l.png",
-"heading": "Html 5",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/q8uivqfehoxgnkdiudh3.png",
+"heading": "Zeplin",
 "text": "HTML 5 is the fifth and the latest version of HTML. It is used to develop slick websites and applications that run on different platforms. HTML 5 uses technologies for providing an enriched user experience."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/anf17zyh7vijr7deshhd.png",
-"heading": "Angular",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/bkr3ptszro9ij7ipk8o2.png",
+"heading": "Sketch",
 "text": "Angular JS is an open-source web framework that is based on JavaScript. It extends the HTML language to meet your web development needs. It can be modified to develop a framework that suits best your website or application."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/gukr7tqz1lvio03stwyd.png",
-"heading": ".Net",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ldgjsrmafnjdyxcefbky.png",
+"heading": "Balsamiq",
 "text": ".Net is a popular open-source platform with tools that help developers build web applications, mobile or desktop applications, games, and more. It is developed and maintained by Microsoft."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/m8m3o4812icdsa1zihez.png",
-"heading": "Vue JS",
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/enkjmeygekhtbyhcwk3n.png",
+"heading": "Marvel",
 "text": "Vue JS is a JavaScript-based open-source framework. It is a front-end platform used by developers and programmers to build UIs or User Interfaces. It is created and maintained by Evan You."
 },
 {
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/yodvkph8ojujdtp18wbz.png",
-"heading": "Owasp",
-"text": "Open Web Application Security Project also known as OWASP is a non-profit online platform that was founded in 2001. The main aim of this platform is to help developers and website owners protect their websites and apps from cyber threats."
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/gxio59hcwbhmrlemhp1u.png",
+"heading": "Axure",
+"text": "You only retain customers if your website is responsive. We design web and mobile applications that can be accessed by your users from every device using one of the most popular platforms, Axure."
 }
 ]
 }
